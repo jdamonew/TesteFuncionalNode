@@ -14,4 +14,4 @@ $ npm install
 $ mocha
 ``
 
-> As configurações de testes podem ser alteradas no arquivo ``indexTeste.js``
+> As configurações de testes podem ser alteradas no arquivo ``test/recorde.js``. O arquivo ``indexTeste.js`` possuem os dados utilizados para realizar os testes.
