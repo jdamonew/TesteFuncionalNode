@@ -5,9 +5,14 @@
 * [Chai HTTP](https://www.chaijs.com/plugins/chai-http/);
 * [Mocha](https://mochajs.org/).
 
-### Instalatar Dependências
+### Instalar Dependências Node & Mocha
 ``
 $ npm install
+``
+
+
+``
+$ npm install -g mocha
 ``
 ### Para rodar dos teste basta usar o seguinte comando:
 ``
